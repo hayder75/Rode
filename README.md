@@ -14,4 +14,8 @@ npx create-expo-app -e with-router
 
 day 1 of phone commits 
 
-can we make it 2nd time commit
+can we make it 2nd time comm
+
+
+
+3rd day was cool 
